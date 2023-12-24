@@ -1,4 +1,4 @@
-import asyncHandler from 'express-async-handler';
+import asyncHandler from "express-async-handler";
 
 // @desc Auth user/set token
 // route POST /api/users/auth
